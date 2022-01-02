@@ -28,3 +28,4 @@ If you want more real-time communication, you can visit our community on [Slack]
 
 https://fonts.google.com/specimen/DM+Sans
 # Indie-Brew-Starter-Files
+![Screenshot 2022-01-02 at 18-34-50 Indie Brew](https://user-images.githubusercontent.com/82536545/147882627-3e1baea8-e261-4fed-8ee9-478eb3efd68d.png)
